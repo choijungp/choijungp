@@ -4,7 +4,7 @@
 * B.S. in Computer Engineering, Kwangwoon University `2017.03 ~ 2022.02`
 
 ### 🏃‍♀️ Experience
-* KT국민은행 IT아카데미 IT's your life 1기 `2022.02 ~ 2022.05`
+* KB국민은행 IT아카데미 IT's your life 1기 `2022.02 ~ 2022.05`
 * SW마에스트로 13기 `22.04 ~ ing`
 
 ### 🌱 Activities / Project
