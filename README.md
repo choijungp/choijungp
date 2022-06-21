@@ -16,6 +16,9 @@
 ### 🏆 Awards
 * 2018 KW해커톤 장려상 `2018.10.27`
 * 2020 광운대학교 컴퓨터정보공학부 졸업작품전시회 우수상 `2020.11.13`
+* 2022 KB IT아카데미 IT's your life 최우수 프로젝트상 `2022.05.25`
+* 2022 KB IT아카데미 IT's your life 최우수상 `2022.05.25`
+
 
 ### 📧 Contact
 <a href="mailto:wjddls980912@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
