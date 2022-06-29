@@ -4,21 +4,20 @@
 * B.S. in Computer Engineering, Kwangwoon University `2017.03 ~ 2022.02`
 
 ### 🏃‍♀️ Experience
-* KB국민은행 IT아카데미 IT's your life 1기 `2022.02 ~ 2022.05`
 * SW마에스트로 13기 `22.04 ~ ing`
+* KB국민은행 IT아카데미 IT's your life 1기 `2022.02 ~ 2022.05`
 
 ### 🌱 Activities / Project
 * 광운대학교 입학전형 홍보대사 광운알리미 5기 `2017.04 ~ 2021.12`
-* 2018 KW 해커톤 `2018.10`
-* 산학연계프로젝트 및 졸업작품프로젝트 - _딥러닝 경량화_ `2019.09 ~ 2020.06`
 * 이다연, 전효희, 최정인, 임미옥, 이종석, 최한솔, 심동규 _"Bottleneck, Shortcut, Grouped convolution을 이용한 MobileNet 경량화"_, 2020 신호처리합동학술대회 `2020.09`
+* 산학연계프로젝트 및 졸업작품프로젝트 - _딥러닝 경량화_ `2019.09 ~ 2020.06`
+* 2018 KW 해커톤 `2018.10`
 
 ### 🏆 Awards
-* 2018 KW해커톤 장려상 `2018.10.27`
-* 2020 광운대학교 컴퓨터정보공학부 졸업작품전시회 우수상 `2020.11.13`
-* 2022 KB IT아카데미 IT's your life 최우수 프로젝트상 `2022.05.25`
 * 2022 KB IT아카데미 IT's your life 최우수상 `2022.05.25`
-
+* 2022 KB IT아카데미 IT's your life 최우수 프로젝트상 `2022.05.25`
+* 2020 광운대학교 컴퓨터정보공학부 졸업작품전시회 우수상 `2020.11.13`
+* 2018 KW해커톤 장려상 `2018.10.27`
 
 ### 📧 Contact
 <a href="mailto:wjddls980912@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> 
