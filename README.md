@@ -25,7 +25,6 @@
 <a href="mailto:wjddls980912@naver.com" target="_blank"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat&logo=Naver&logoColor=white" /></a> 
 <a href="https://github.com/choijungp?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a> 
 <a href="https://velog.io/@choijungp/series" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat&logo=Velog&logoColor=white" /></a> 
-<a href="https://www.notion.so/_-2c66914b49dd4b439f3ac28e8cfc7534" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" /></a>
 
 
 ### 🛠 Tech Stack
