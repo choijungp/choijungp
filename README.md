@@ -3,7 +3,11 @@
 ### 🎓 Education
 * B.S. in Computer Engineering, Kwangwoon University `2017.03 ~ 2022.02`
 
+### 👩🏻‍💻 Work
+* 라온시큐어 보안개발1팀 인턴 (iOS) `2023.03 ~ 2023.09`
+
 ### 🏃‍♀️ Experience
+* 네이버부스트캠프 웹·모바일 9기 챌린지 `2024.07 ~ 2024.08`
 * 멋쟁이사자처럼 앱스쿨 iOS 4기 `2023.11 ~ 2024.05`
 * SW마에스트로 13기 `2022.04 ~ 2022.12`
 * KB국민은행 IT아카데미 IT's your life 1기 `2022.03 ~ 2022.05`
@@ -27,6 +31,7 @@
 ### 📧 Contact
 <a href="mailto:wjddls980912@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white" /></a> 
 <a href="https://github.com/choijungp?tab=repositories" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/choijungp912/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=flat&logo=Linkedin&logoColor=white" /></a> 
 <a href="https://choijungp.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white" /></a> 
 
 
