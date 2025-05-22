@@ -1,4 +1,4 @@
-## Choi Jungin 😎  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fchoijungp%2F&count_bg=%23D8A5FE&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+## Choi Jungin 😎  
 
 ### 🎓 Education
 * B.S. in Computer Engineering, Kwangwoon University `2017.03 ~ 2022.02`
