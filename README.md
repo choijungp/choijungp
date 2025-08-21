@@ -7,6 +7,7 @@
 * 라온시큐어 보안개발1팀 인턴 (iOS) `2023.03 ~ 2023.09`
 
 ### 🏃‍♀️ Experience
+* YAPP 26기 iOS `2025.05 ~ 2025.08`
 * 네이버부스트캠프 웹·모바일 9기 멤버십 `2024.08 ~ 2024.12`
 * 네이버부스트캠프 웹·모바일 9기 챌린지 `2024.07 ~ 2024.08`
 * 멋쟁이사자처럼 앱스쿨 iOS 4기 `2023.11 ~ 2024.05`
@@ -14,6 +15,7 @@
 * KB국민은행 IT아카데미 IT's your life 1기 `2022.03 ~ 2022.05`
 
 ### 🌱 Activities / Project
+* [빛나길](https://apps.apple.com/kr/app/%EB%B9%9B%EB%82%98%EA%B8%B8/id6749437799) iOS App Store 배포 `2025.08`
 * [ANBD](https://apps.apple.com/kr/app/anbd/id6502585089) iOS App Store 배포 `2024.05`
 * [현지야](https://apps.apple.com/kr/app/%ED%98%84%EC%A7%80%EC%95%BC-heylocal/id1642791139) iOS App Store 배포 `2022.11`
 * 광운대학교 입학전형 홍보대사 광운알리미 5기 `2017.04 ~ 2021.12`
